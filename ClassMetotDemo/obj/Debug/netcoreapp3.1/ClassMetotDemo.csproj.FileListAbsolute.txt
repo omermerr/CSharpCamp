@@ -1,0 +1,13 @@
+C:\Users\OmerMermer\source\repos\C_Sharp_Kamp\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.exe
+C:\Users\OmerMermer\source\repos\C_Sharp_Kamp\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.deps.json
+C:\Users\OmerMermer\source\repos\C_Sharp_Kamp\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.runtimeconfig.json
+C:\Users\OmerMermer\source\repos\C_Sharp_Kamp\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.runtimeconfig.dev.json
+C:\Users\OmerMermer\source\repos\C_Sharp_Kamp\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.dll
+C:\Users\OmerMermer\source\repos\C_Sharp_Kamp\ClassMetotDemo\bin\Debug\netcoreapp3.1\ClassMetotDemo.pdb
+C:\Users\OmerMermer\source\repos\C_Sharp_Kamp\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.csprojAssemblyReference.cache
+C:\Users\OmerMermer\source\repos\C_Sharp_Kamp\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.AssemblyInfoInputs.cache
+C:\Users\OmerMermer\source\repos\C_Sharp_Kamp\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.AssemblyInfo.cs
+C:\Users\OmerMermer\source\repos\C_Sharp_Kamp\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.csproj.CoreCompileInputs.cache
+C:\Users\OmerMermer\source\repos\C_Sharp_Kamp\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.dll
+C:\Users\OmerMermer\source\repos\C_Sharp_Kamp\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.pdb
+C:\Users\OmerMermer\source\repos\C_Sharp_Kamp\ClassMetotDemo\obj\Debug\netcoreapp3.1\ClassMetotDemo.genruntimeconfig.cache
