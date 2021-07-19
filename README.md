@@ -1,4 +1,4 @@
 # CSharpCamp
-- Kodlama.io  -  Yazılım Geliştirici Yetiştirme Kampı (C# + ANGULAR)  -  Engin Demiroğ
+### Kodlama.io  -  Yazılım Geliştirici Yetiştirme Kampı (C# + ANGULAR)  -  Engin Demiroğ
 
- .GameProject projesini Zeynel Toplar'ın çalışmalarını inceleyerek tamamlayabildim. 
+ - GameProject projesini Zeynel Toplar'ın çalışmalarını inceleyerek tamamlayabildim. 
